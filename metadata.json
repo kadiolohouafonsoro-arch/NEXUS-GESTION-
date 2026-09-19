@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Gestion",
+  "description": "Plateforme SaaS multi-tenant de gestion administrative et financière (Nexus Gestion) pour associations, tontines et mutuelles : membres, cotisations, caisses, trésorerie et tours de tontine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
